@@ -1,2 +1,4 @@
-# tugas-pert-3
-tugas
+NAMA : RIZKI RAHMATULLAH
+KELAS : 19.5B.07
+NIM : 19207193
+TUGAS
